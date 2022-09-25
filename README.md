@@ -1,2 +1,2 @@
 # Simple_calculator
-Simple calculator
+Embedded Project
